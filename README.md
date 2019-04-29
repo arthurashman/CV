@@ -1,50 +1,58 @@
-## Your Name
+## Arthur Ashman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
+I am a curious and versatile junior software developer who loves creative problem solving and building value-driven products. Passionate about agile processes and working in cross-functional teams, my aim is to find a work environment where I can continue exploring forward-thinking ways of working. I am looking for opportunities where I can build on my knowledge and hone my craft in best practice software development.
 ## Skills
 
-#### This Skill
+#### Communication and Stakeholder Management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Coming from a background in medicine, patient communication and empathy were key, and explicitly taught. I have further developed these skills professionally in subsequent people-focussed roles building up my ability to work fluidly in teams, provide and receive valuable feedback, and manage relationships with clients and colleagues alike.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My approach to problem solving is both analytical and creative. Approaching problems with both logical and lateral thought, I am able to resolve blockers and devise novel solutions. I thrive when given the opportunity to approach a problem imaginatively and experiment in a safe environment.  
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Fast Learner
+
+I am ambitious to learn and grow, and have a sustained curiosity that always leads me to the next question. My ability to learn quickly has proven invaluable at Makers Academy and allows for me to adapt to any given setting.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Software Developemnt Bootcamp | MAKERS ACADEMY | 2019
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+ - OOP, SOLID, TDD, DDD, MVC
+ - Software craftsmanship using agile development processes and practicing XP values
+ - Ruby, Rails, Javascript, Sinatra, PostgreSQL 
+ - RSpec, Capybara, Jasmine
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### MBBS Bachelor of Medicine, Bachelor of Surgery  |  UCL MEDICAL SCHOOL | 2008 - 2014
 
-#### Your University / College (start_date to end_date)
+ - Intercalated BSc (hons) Medical Sciences with International Health
+ - Elective clinical placement: Livingstone General Hospital, Zambia
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### THE KING'S SCHOOL PETERBOROUGH | 2001 - 2008
 
-#### Any other qualifications
+ - A Levels:  Biology (A), Chemistry (A), Geography (A), General Studies (A)
+ - AS Level:  Mathematics (B)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+HR Coordinator  |  PORTAS AGENCY | 2017 - 2018
+ - Developed company culture, policies and employee skills, and managed full-cycle recruitment and HR tasks.
+
+Operations Manager | HARLEY ACADEMY | 2016 - 2017
+ - Managed all company processes, iterating for continuous improvement and sustainable expansion.
+
+Junior Campaign Manager  |  SUPERAWESOME | 2016
+ - Coordinated production team in execution of online media campaigns. Tracked performance for optimisation.
+
+ Talent Development Executive, rising to -
+
+ Talent Development Team Leader |  INSPIRING INTERNS | 2014 - 2016
+ - Conducted rigorous selection, evaluation and coaching of candidates in preparation for graduate roles. 
+
+## Interests
+
+ - I am a board game enthusiast, from playing and play testing to designing my own.
+ - I love baking and have recently taken up sourdough bread making. I have a fascination with my starter.
+ - I cycle to get around, and for the exercise.
