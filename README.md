@@ -1,4 +1,5 @@
 ## Arthur Ashman
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
 I am a curious and versatile junior software developer who loves creative problem solving and building value-driven products. Passionate about agile processes and working in cross-functional teams, my aim is to find a work environment where I can continue exploring forward-thinking ways of working. I am looking for opportunities where I can build on my knowledge and hone my craft in best practice software development.
 ## Skills
