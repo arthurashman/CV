@@ -17,6 +17,15 @@ My approach to problem solving is both analytical and creative. Approaching prob
 
 I am ambitious to learn and grow, and have a sustained curiosity that always leads me to the next question. My ability to learn quickly has proven invaluable at Makers Academy and allows for me to adapt to any given setting.
 
+## Projects
+
+| Project | Description | Timeframe | Technology |
+| ----- | ----- | ----- | ----- |
+| [Helping Hands](https://github.com/arthurashman/Bagsos) (visit on [Heroku](https://bagso.herokuapp.com/)) | Final team project building a social good app to help volunteers find local tasks in their community | 9 days, weeks 11 and 12 | Ruby on Rails, Rails, RSpec, Capybara, JavaScript, JQuery, HTML, CSS, ActiveRecord |
+| [Acebook](https://github.com/arthurashman/acebook-business-logic) (visit on [Heroku](https://acebook-business-logic.herokuapp.com/)) | Team project to build a Facebook clone using Agile principles and Rails | 9 days, weeks 8 and 9 | Ruby on Rails, RSpec, Capybara, HTML, CSS, Postgres |
+| [MakersBnB](https://github.com/arthurashman/makersbnb)  | Team project to build an AirBnb clone using Agile principles | 4 days, week 6 | Ruby on Rails, RSpec, Capybara, HTML, CSS, Postgres |
+| [Rock, Paper, Scissors](https://github.com/arthurashman/rps-challenge) | Weekend challenge to build a web app to play Rock, Paper, Scissors | 2 days, week 3 | Ruby, Sinatra, RSpec, Capybara, HTML, CSS |
+
 ## Education
 
 #### Software Developemnt Bootcamp | MAKERS ACADEMY | 2019
